@@ -9,13 +9,13 @@ export default function Home() {
 <div className=" bg-gray-100 w-full h-full py-4">
 
 <div className="mx-auto flex justify-center h-full">
-      <div className="w-[97%] shadow-xl border-[5px] border-gray-400  rounded-lg h-screen ">
+      <div className="w-[98%] shadow-xl border-[5px] border-gray-400  rounded-lg min-h-[96.4vh]">
         <div>
           
-        <div className=" px-2 bg-gray-300  pt-[4px] pb-1 mb-5  border-b-[6px] border-white border-double">
-            <h2 className="text-2xl text-[17px] text-black text-center  font-bold 
+        <div className=" bg-gray-300   mb-5  border-b-[6px] border-white border-double">
+            <h2 className="text-2xl text-[17px] p-0 text-black text-center  font-bold 
           ">Welcome to the Blackboard</h2> 
-               <h2 className="text-center text-[14px] font-semibold text-[#5d5f61]">Hira Trusted Trader</h2>
+               <h2 className="text-center italic pb-1 text-[14px] font-semibold text-[#5d5f61]">Hira Trusted Trader</h2>
         </div>
 
         </div>
