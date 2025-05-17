@@ -12,7 +12,7 @@ export default function Home() {
       <div className="w-[97%] shadow-xl border-[5px] border-gray-400  rounded-lg h-screen ">
         <div>
           
-        <div className=" px-2 bg-gray-300  py-[4px]  mb-5  border-b-[6px] border-white border-double">
+        <div className=" px-2 bg-gray-300  pt-[4px] pb-1 mb-5  border-b-[6px] border-white border-double">
             <h2 className="text-2xl text-[17px] text-black text-center  font-bold 
           ">Welcome to the Blackboard</h2> 
                <h2 className="text-center text-[14px] font-semibold text-[#5d5f61]">Hira Trusted Trader</h2>
